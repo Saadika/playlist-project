@@ -1,0 +1,152 @@
+
+
+@media screen and (min-width: 0px) {
+    #playlist_options {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .playlist_options-items {
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+
+    .song_items {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    #playlist_options {
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+
+    .song_items {
+        display: flex;
+    }
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #4F4D4D;
+}
+
+.playlist {
+    margin-top: 20px;
+}
+
+.playlist_options-items {
+    height: 150px;
+    width: 100%;
+    margin-right: 20px;
+    border: 1px solid #4F4D4D;
+    border-radius: 12px;
+    color: #fff;
+    font-weight: 700;
+}
+
+#playlist_options {
+    list-style-type: none;
+    display: flex;
+    list-style-type: none;
+}
+
+.draggable {
+    padding: 1rem;
+    border: 1px solid #4F4D4D;
+    cursor: initial;
+}
+
+.draggable.dragging {
+    opacity: .5;
+}
+
+button.Chillhop {
+    background-image: url('../assets/chillhop.jpg');
+}
+
+button.dance {
+    background-image: url('../assets/electronic.jpg');
+}
+
+button.Hip {
+    background-image: url('../assets/hip-hop.jpg');
+}
+
+button.Rap {
+    background-image: url('../assets/rap.jpg');
+}
+
+button {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+button span {
+    background-color: #000;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+
+.song_image img {
+    width: 100%;
+}
+
+.song_duration,
+.song_footer-container {
+    display: flex;
+}
+
+.back_button {
+    text-align: left;
+    align-self: center;
+}
+
+.progress {
+    width: 80%;
+    height: 0.5rem;
+    margin-right: 15px;
+    margin-left: 10px;
+}
+
+.song_duration {
+    align-items: center;
+}
+
+.play_icon {
+    margin-top: -10px;
+    font-size: 30px;
+}
+
+.song_footer-liked {
+    z-index: 100;
+}
+
+.song_title {
+    font-size: 1.8rem;
+}
+
+.song_artist,
+.song_album {
+    font-size: 1.2rem;
+}
+
+.bi-hand-thumbs-up::before,
+.bi-hand-thumbs-up-fill::before,
+.bi-trash::before {
+    font-size: 1.5rem;
+}
+
+.song_footer-liked {
+    padding-right: 10px;
+}
+
+.song_footer-container {
+    margin-top: 10px;
+}

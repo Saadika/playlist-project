@@ -1,0 +1,173 @@
+[{
+    "playlistTitle": "Hip Hop",
+    "songList": [{
+        "image": "../assets/popstar.jpg",
+        "songTitle": "POPSTAR",
+        "songDuration": "3:22",
+        "artist": "DJ Khaled feat. Drake",
+        "album": "",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/savage.jpg",
+        "songTitle": "Savage",
+        "songDuration": "4:02",
+        "artist": "Megan Thee Stallion",
+        "album": "Suga",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/whats-poppin.jpg",
+        "songTitle": "WHATS POPPIN",
+        "songDuration": "2:49",
+        "artist": "Jack Harlow",
+        "album": "Sweet Action",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/rockstar.jpg",
+        "songTitle": "Rockstar",
+        "songDuration": "7:09",
+        "artist": "DaBaby",
+        "album": "Blame It on Baby",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/life-is-good.jpg",
+        "songTitle": "Life Is Good",
+        "songDuration": "5:35",
+        "artist": "Future Ft. Drake",
+        "album": "High Off Life",
+        "liked": false,
+        "removed": false
+    }]
+}, {
+    "playlistTitle": "Electronic dance music (EDM)",
+    "songList": [{
+        "image": "../assets/prayer-in-c.jpg",
+        "songTitle": "Prayer in C (Robin Schulz Remix) (2014)",
+        "songDuration": "3:14",
+        "artist": "Lilly Wood and The Prick, Robin Schulz",
+        "album": "Invincible Friends (bonus edition)",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/in-the-name-of-love.jpg",
+        "songTitle": "In the Name of Love",
+        "songDuration": "3:18",
+        "artist": "Bebe Rexha, Martin Garrix",
+        "album": "In the Name of Love Remixes",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/eat-sleep-rave-repeat.jpg",
+        "songTitle": "Eat, Sleep, Rave, Repeat",
+        "songDuration": "5:26",
+        "artist": "Fatboy Slim, Riva Starr",
+        "album": "Eat Sleep Rave Repeat",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/i-remember.jpg",
+        "songTitle": "I Remember",
+        "songDuration": "9:53",
+        "artist": "deadmau5, Kaskade",
+        "album": "",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/alone.jpg",
+        "songTitle": "Alone",
+        "songDuration": "3:20",
+        "artist": "Marshmello",
+        "album": "Alone (The Remixes)",
+        "liked": false,
+        "removed": false
+    }]
+}, {
+    "playlistTitle": "Rap",
+    "songList": [{
+        "image": "../assets/Drake_-_Laugh_Now_Cry_Later.png",
+        "songTitle": "Laugh Now Cry Later",
+        "songDuration": "5:01",
+        "artist": "Drake, Lil Durk",
+        "album": "Laugh Now Cry Later",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/the-box.jpg",
+        "songTitle": "The Box",
+        "songDuration": "3:32",
+        "artist": "Roddy Ricch",
+        "album": "Please Excuse Me for Being Antisocial",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/runnin.jpg",
+        "songTitle": "Runnin",
+        "songDuration": "3:25",
+        "artist": "21 Savage, Metro Boomin",
+        "album": "Savage Mode II",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/pop-smoke-for-the-night.jpg",
+        "songTitle": "For The Night",
+        "songDuration": "3:11",
+        "artist": "Pop Smoke",
+        "album": "Shoot for the Stars, Aim for the Moon",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/still-trappin.jpg",
+        "songTitle": "Still Trappin'",
+        "songDuration": "3:05",
+        "artist": "Lil Durk, King Von",
+        "album": "The Voice",
+        "liked": false,
+        "removed": false
+    }]
+}, {
+    "playlistTitle": "Chillhop",
+    "songList": [{
+        "image": "../assets/murmuration.jpg",
+        "songTitle": "Murmuration",
+        "songDuration": "2:36",
+        "artist": "Blue Wednesday, Shopan",
+        "album": "Directions",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/murmuration.jpg",
+        "songTitle": "Who Knows",
+        "songDuration": "3:52",
+        "artist": "Psalm Trees, Guillaume Muschalle",
+        "album": "Who Knows",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/hereafter.jpg",
+        "songTitle": "Hereafter",
+        "songDuration": "2:38",
+        "artist": "Makzo",
+        "album": "Anecdotes",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/small-town-palm-trees.jpg",
+        "songTitle": "Small Town Palm Trees",
+        "songDuration": "1:59",
+        "artist": "Mama Aiuto",
+        "album": "Today Feels Like Everyday",
+        "liked": false,
+        "removed": false
+    }, {
+        "image": "../assets/flashback.jpg",
+        "songTitle": "Flashback",
+        "songDuration": "3:45",
+        "artist": "Blue Wednesday, Shopan",
+        "album": "Directions",
+        "liked": false,
+        "removed": false
+    }]
+}]
